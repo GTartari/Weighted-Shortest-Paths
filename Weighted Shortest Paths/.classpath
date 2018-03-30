@@ -2,5 +2,15 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/eclipse-rdf4j-1.0.3-onejar.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/lucene-analyzers-common-4.8.1.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/lucene-core-4.8.1.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/lucene-queryparser-4.8.1.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/nxparser-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/slf4j-api-1.7.24.jar"/>
+	<classpathentry kind="lib" path="/Pathfinding algorithms/lib/slf4j-simple-1.7.24.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
