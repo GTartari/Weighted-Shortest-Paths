@@ -1,0 +1,67 @@
+sep=;
+Max
+Variations;Path length;Search duration;Visited nodes;Max degree;Max weight
+Baseline;8,0;7753,0;1214040,0;427562,0;1,0
+Degree;20,0;2412,0;1202692,0;427562,0;427562,0
+Degree and edge weight;20,0;2944,0;1266939,0;427562,0;427562,0
+Degree normalized;8,0;2992,0;1215312,0;427562,0;2,0
+Degree normalized and edge weight;8,0;3937,0;1582446,0;427562,0;2,0
+PageRank;24,0;2669,0;1202692,0;427562,0;0,01398624624023542
+PageRank and edge weight;8,0;3938,0;1635521,0;427562,0;0,01398624624023542
+PageRank normalized;8,0;2875,0;1214583,0;427562,0;2,0
+PageRank normalized and edge weight;8,0;3834,0;1594325,0;427562,0;2,0
+Min
+Variations;Path length;Search duration;Visited nodes;Max degree;Max weight
+Baseline;3,0;504,0;81855,0;4248,0;1,0
+Degree;4,0;241,0;26945,0;23,0;23,0
+Degree and edge weight;4,0;230,0;20484,0;27,0;27,0
+Degree normalized;3,0;559,0;17981,0;420,0;1,0009823136761453
+Degree normalized and edge weight;3,0;720,0;21322,0;148,0;1,0003461486287368
+PageRank;4,0;235,0;12862,0;28,0;3,5951496651762277E-7
+PageRank and edge weight;3,0;839,0;19868,0;148,0;4,929197176966732E-6
+PageRank normalized;3,0;583,0;15909,0;420,0;1,0017110099256128
+PageRank normalized and edge weight;3,0;685,0;26912,0;148,0;1,0003524317456092
+Mean
+Variations;Path length;Search duration;Visited nodes;Max degree;Max weight
+Baseline;4,71;1637,7;629897,56;177183,83;1,0
+Degree;11,41;1366,6;594320,41;10729,8;10729,8
+Degree and edge weight;10,87;1680,38;621433,54;10731,04;10731,04
+Degree normalized;4,71;1908,96;601490,72;117415,7;1,2746167807242004
+Degree normalized and edge weight;4,79;2274,36;675701,24;107750,18;1,2520106557645456
+PageRank;11,71;1542,78;581267,54;10794,96;6,006298976058686E-4
+PageRank and edge weight;4,85;2380,55;731001,21;107807,31;0,005629318200259019
+PageRank normalized;4,72;1850,78;603141,45;120901,21;1,405502745774246
+PageRank normalized and edge weight;4,8;2177,95;667737,4;102877,22;1,3661592688940303
+25 Percentile
+Variations;Path length;Search duration;Visited nodes;Max degree;Max weight
+Baseline;4,0;1248,0;303508,0;38358,0;1,0
+Degree;9,0;745,0;267551,0;51,0;51,0
+Degree and edge weight;9,0;964,0;295145,0;52,0;52,0
+Degree normalized;4,0;1346,0;311233,0;13525,0;1,031632839213962
+Degree normalized and edge weight;4,0;1601,0;294435,0;16977,0;1,0397065220950412
+PageRank;10,0;860,0;259537,0;69,0;2,6717363021227024E-6
+PageRank and edge weight;4,0;1775,0;386143,0;19609,0;0,0015523875425502427
+PageRank normalized;4,0;1343,0;290963,0;16977,0;1,1025657493350085
+PageRank normalized and edge weight;4,0;1590,0;344909,0;14376,0;1,0977442360335914
+Median
+Variations;Path length;Search duration;Visited nodes;Max degree;Max weight
+Baseline;5,0;1551,0;594125,0;117711,0;1,0
+Degree;11,0;1353,0;565880,0;204,0;204,0
+Degree and edge weight;11,0;1693,0;585644,0;204,0;204,0
+Degree normalized;5,0;1872,0;550196,0;52606,0;1,123037126779274
+Degree normalized and edge weight;5,0;2322,0;668501,0;52606,0;1,123037126779274
+PageRank;12,0;1605,0;559366,0;214,0;1,551027519948475E-5
+PageRank and edge weight;5,0;2329,0;674479,0;74232,0;0,004695658881654595
+PageRank normalized;5,0;1821,0;537875,0;74232,0;1,2787193294486898
+PageRank normalized and edge weight;5,0;2223,0;676624,0;52606,0;1,191987220929517
+75 Percentile
+Variations;Path length;Search duration;Visited nodes;Max degree;Max weight
+Baseline;5,0;2069,0;1002983,0;427562,0;1,0
+Degree;13,0;1992,0;917137,0;1994,0;1994,0
+Degree and edge weight;13,0;2494,0;969544,0;1994,0;1994,0
+Degree normalized;5,0;2512,0;929281,0;201942,0;1,4723104485431353
+Degree normalized and edge weight;5,0;2937,0;1023562,0;117711,0;1,2753074407922127
+PageRank;14,0;2244,0;874729,0;1994,0;1,4367146511052505E-4
+PageRank and edge weight;6,0;3147,0;1134114,0;201942,0;0,01140116736186723
+PageRank normalized;5,0;2533,0;965162,0;201942,0;1,8151699295175088
+PageRank normalized and edge weight;6,0;2747,0;955959,0;117711,0;1,5850306228169173
